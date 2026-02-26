@@ -1,0 +1,20 @@
+{
+  "name": "hello-world-server",
+  "version": "1.0.0",
+  "description": "First Server with NodeJs",
+  "keywords": [
+    "server",
+    "nodejs",
+    "boolean"
+  ],
+  "license": "ISC",
+  "author": "Sirio Ghiringhelli",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
+  }
+}
